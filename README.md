@@ -2,7 +2,7 @@
 
 ```bash
 brew tap ParthKadam11/tap
-brew install wtf
+brew install --cask wtf
 ```
 
-Formulas are updated automatically on [WTFisRunning](https://github.com/ParthKadam11/WTFisRunning) releases.
+Casks are updated automatically on [WTFisRunning](https://github.com/ParthKadam11/WTFisRunning) releases.
